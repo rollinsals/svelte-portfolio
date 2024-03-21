@@ -7,7 +7,11 @@
     <div class="items-left flex flex-col justify-center gap-4">
         <p>
             <i class="fa-solid fa-envelope" />
-            <b class="pr-2">Email</b> salsberyr@gmail.com
+
+            <b class="pr-2">Email</b>
+            <a class="text-teal-400" href="mailto:salsberyr@gmail.com">
+                salsberyr@gmail.com
+            </a>
         </p>
         <p>
             <i class="fa-brands fa-github" />
@@ -34,6 +38,23 @@
                 target="_blank"
                 href="https://linkedin.com/in/rollin-salsbery"
                 >/rollin-salsbery
+                <sup>
+                    <span class="scale-75 pl-0.5 text-xs">
+                        <i
+                            class="fa-solid fa-arrow-up-right-from-square scale-[75%] text-xs"
+                        />
+                    </span>
+                </sup>
+            </a>
+        </p>
+        <p>
+            <i class="fa-brands fa-itch-io" />
+            <b class="pr-2">Itch.io</b>
+            <a
+                class="text-teal-400"
+                target="_blank"
+                href="https://salsberyr.itch.io"
+                >salsberyr
                 <sup>
                     <span class="scale-75 pl-0.5 text-xs">
                         <i

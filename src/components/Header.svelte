@@ -21,12 +21,12 @@
         {/each}
 
         <a
-            href="#"
+            href="mailto:salsberyr@gmail.com"
             target="_blank"
             class="blueShadow group relative overflow-hidden rounded-full bg-white px-5 py-2 text-slate-950"
         >
             <div
-                class="absolute right-full top-0 z-0 h-full w-full bg-teal-500 opacity-20 duration-200 group-hover:translate-x-full"
+                class="absolute right-full top-0 z-0 h-full w-full bg-teal-500 opacity-60 duration-200 group-hover:translate-x-full"
             ></div>
             <h4 class="z-9 relative">Get in touch</h4>
         </a>

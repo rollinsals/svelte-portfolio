@@ -7,7 +7,11 @@
             icon: "fa-solid fa-shield-dog",
             href: "https://github.com/rollinsals/dogspotter",
         },
-        { name: "Other Project", icon: "fa-solid fa-worm" },
+        {
+            name: "Lending Library",
+            icon: "fa-solid fa-book",
+            href: "https://github.com/rollinsals/library-in-flask",
+        },
         {
             name: "Fen Friends",
             icon: "fa-solid fa-spaghetti-monster-flying",
@@ -27,8 +31,9 @@
                 "My previous work has been in merchandising for online retail - merging detailed sales analysis with aesthetic decision-making and a comprehensive tech stack.",
         },
         {
-            name: "Consistent, Dedicated, and (Adjective Here)",
-            description: "",
+            name: "Consistent, Dedicated, and Adaptable",
+            description:
+                "Whatever the job throws at me, I'm ready to learn, shift, and fill the needs",
         },
     ];
 </script>
@@ -46,9 +51,11 @@
                 Salsbery <br /> Backend & Game
                 <span class="playfair text-teal-600"> Developer</span>
             </h2>
-            <p class="text-base sm:text-lg md:text-lg">List some techs here</p>
+            <p class="text-base sm:text-lg md:text-lg">
+                Working with Django, Flask, PostgreSQL, SvelteKit, & TailwindCSS
+            </p>
             <a
-                href="#"
+                href="mailto:salsberyr@gmail.com"
                 target="_blank"
                 class="blueShadow playfair group relative mx-auto cursor-pointer overflow-hidden rounded-full bg-white px-6 py-3 text-base text-slate-950 sm:text-lg md:text-xl lg:ml-0 lg:mr-auto"
             >
@@ -84,7 +91,13 @@
                 </p>
             </Step>
             <Step step={steps[1]}>
-                <p>A different project</p>
+                <p>
+                    A lending library app backend. Built with <strong
+                        class="text-teal-500">Flask</strong
+                    >
+                    and <strong class="text-teal-500">PostgreSQL</strong> for a RESTful
+                    API
+                </p>
             </Step>
             <Step step={steps[2]}>
                 <p>
