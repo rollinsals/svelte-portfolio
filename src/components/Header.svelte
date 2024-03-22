@@ -21,8 +21,7 @@
         {/each}
 
         <a
-            href="mailto:salsberyr@gmail.com"
-            target="_blank"
+            href="#footer"
             class="blueShadow group relative overflow-hidden rounded-full bg-white px-5 py-2 text-slate-950"
         >
             <div

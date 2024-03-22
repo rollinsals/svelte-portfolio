@@ -23,7 +23,7 @@
         {
             name: "(Mostly) Self-Taught Developer",
             description:
-                "Driven to bring to life my own video game vision, I taught myself the basic of code and game development in engines like Unity and Pico-8. I've since expanded further with an intensive bootcamp through Nucamp to polish up my skills.",
+                "Driven to bring to life my own video game vision, I taught myself the basics of code and game development in engines like Unity and Pico-8. I've since expanded further with an intensive bootcamp through Nucamp to polish up my skills.",
         },
         {
             name: "Data-Driven with an Eye for Design",

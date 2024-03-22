@@ -1,5 +1,6 @@
 <footer
     class="flex flex-col items-center justify-center gap-4 border-t border-solid border-teal-950 bg-black py-20 sm:gap-8 sm:py-32"
+    id="footer"
 >
     <p class="bg-white px-4 py-2 font-medium text-slate-950">
         Connect with me <i class="fa-solid fa-handshake ml-1" />
